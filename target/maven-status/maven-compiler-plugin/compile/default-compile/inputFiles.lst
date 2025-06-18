@@ -1,0 +1,13 @@
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\config\AppConfig.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\controller\WeatherController.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Clouds.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Coord.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Main.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Rain.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Snow.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Sys.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Weather.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\WeatherResponse.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\model\Wind.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\service\WeatherService.java
+C:\Users\ymaru\newproject\weather-app-backend\src\main\java\com\weatherapp\weather_app_backend\WeatherAppBackendApplication.java

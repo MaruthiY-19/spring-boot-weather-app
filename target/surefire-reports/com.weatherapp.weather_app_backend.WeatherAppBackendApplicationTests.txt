@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.weatherapp.weather_app_backend.WeatherAppBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.475 s -- in com.weatherapp.weather_app_backend.WeatherAppBackendApplicationTests
