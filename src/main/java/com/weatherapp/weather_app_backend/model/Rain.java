@@ -5,15 +5,15 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Rain {
-    // Volume for the last 1 hour
+   
     @JsonProperty("1h")
     private Double oneHour;
 
-    // Volume for the last 3 hours
+    
     @JsonProperty("3h")
     private Double threeHour;
 
-    // Constructors (optional, but good practice)
+   
     public Rain() {
     }
 
